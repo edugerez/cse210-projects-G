@@ -1,5 +1,5 @@
 using System;
-//Gerez Eduardo edition class 1
+//Gerez Eduardo edition class one
 class Program
 {
     static void Main(string[] args)
